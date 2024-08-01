@@ -23,5 +23,5 @@ Replace input_file.txt with the path to your input file containing IP subnets, a
 16.Logging and monitoring are enabled
 17.Pod security policies are enabled
 18.Secrets encryption is enabled
-19.AKS cluster is using managed disks
+19.AKS cluster is using managed disks.
 Each check includes a description, the result of the check, and a recommendation if the check fails. This script will generate a comprehensive security assessment report for your AKS cluster.
